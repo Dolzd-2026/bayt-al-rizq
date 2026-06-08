@@ -14,6 +14,6 @@
 // GET THESE FROM: supabase.com → your project → Settings → API
 // ═══════════════════════════════════════════════════════
 window.__BRQ_CONFIG__ = {
-  url: 'YOUR_PROJECT_URL',
-  key: 'YOUR_ANON_KEY'
+  url: 'https://tswslxntzgnmyoopzmvd.supabase.co/rest/v1/',
+  key: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRzd3NseG50emdubXlvb3B6bXZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzc4NTIwMjEsImV4cCI6MjA5MzQyODAyMX0.2LC-FRtpDIpVeU_a6mOv82TdWY4jG8HjUebjtyB0JFo'
 };
